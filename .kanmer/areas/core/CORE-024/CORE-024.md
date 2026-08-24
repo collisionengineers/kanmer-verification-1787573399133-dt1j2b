@@ -4,7 +4,7 @@ type: ticket
 title: >-
   Implement kanmer check-pr — ticket linkage and open-questions merge gate
   (phase 1)
-status: verifying
+status: review
 area: core
 order: 10
 assignee: core024-executor
